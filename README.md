@@ -12,6 +12,5 @@ There is Linear relationship between Profit and RANDDSpend
 
 H0 :- There is no Linear relationship between Profit and R&D spend , Administration & Marketing spend
 
-                                  Vs 
-
+                                 
 H1 :- There is Linear relationship between Profit and R&D spend , Administration & Marketing spend
