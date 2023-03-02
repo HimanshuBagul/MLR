@@ -1,12 +1,14 @@
 # MLR
 Linear Regression Task
 
-Prepare a prediction model for profit of 50_startups data. Do transformations for getting better predictions of profit and make a table containing R^2 value for each prepared model.
+Prepare a prediction model for profit of 50_startups data.
 
 # Objective
+Identifying which variable have more impact on Profit
 
-There is Linear relationship between Profit and RANDDSpend
-73% is accuracy of model , so we say model is good fit
+Prediction of Profit on the basis of variables
+
+Identifying the Linear relationship between Profit and R&D spend , Administration & Marketing spend
 
 # Hypothesis
 
@@ -14,3 +16,6 @@ H0 :- There is no Linear relationship between Profit and R&D spend , Administrat
 
                                  
 H1 :- There is Linear relationship between Profit and R&D spend , Administration & Marketing spend
+ 
+ # Python packages used
+ Pandas,Numpy,Seaborn,Matplotlib,Statsmodel
