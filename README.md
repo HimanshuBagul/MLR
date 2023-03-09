@@ -4,7 +4,6 @@ Linear Regression Task
 Prepare a prediction model for profit of 50_startups data.
 
 # Objective
-Identifying which variable have more impact on Profit
 
 Prediction of Profit on the basis of variables
 
